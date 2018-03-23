@@ -1,0 +1,28 @@
+{
+  "name": "google-lib-node",
+  "version": "1.0.0",
+  "description": "Mobile-Number-validation-using ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+    
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "gft",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "google-libphonenumber": "^3.0.12",
+    "mongodb": "^2.2.16",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  }
+}
