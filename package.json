@@ -16,7 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.16.2",
+    "express": "^4.19.2",
     "google-libphonenumber": "^3.0.12",
     "mongodb": "^2.2.16",
     "mysql": "^2.15.0"
